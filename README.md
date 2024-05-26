@@ -14,5 +14,7 @@ Welcome to my profile! :)
 ![HTML](https://img.shields.io/badge/HTML-B3C8CF?style=for-the-badge&logo=html5&logoColor=B3C8CF&logoSize=100&labelColor=ede2e1&color=B3C8CF)
 ![CSS](https://img.shields.io/badge/CSS-B3C8CF?style=for-the-badge&logo=css3&logoColor=FFB1B1&logoSize=100&labelColor=ede2e1&color=FFB1B1)
 ![Java](https://img.shields.io/badge/Java-ECB176?style=for-the-badge&logo=Java&logoColor=F6FDC3&labelColor=ede2e1&color=F6FDC3)
+![JavaScript](https://img.shields.io/badge/JavaScript-756AB6?style=for-the-badge&logo=javascript&logoColor=756AB6&labelColor=%23ede2e1&color=756AB6)
+![React](https://img.shields.io/badge/React-B0A695?style=for-the-badge&logo=react&logoColor=B0A695&labelColor=%23ede2e1&color=B0A695)
 
 

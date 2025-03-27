@@ -2,7 +2,7 @@
 
 I'm Anna (she/her), an Architecture and Urban Planning postgraduate who's working towards a career in tech.
 <br>✶ Software Analysis and Development student at University of Fortaleza (UNIFOR) <a href="https://www.unifor.br"><img src="https://i.imgur.com/175E7md.png" height="15"></a>
-<br>✶ Digital Products Intern at Solar Coca-Cola
+<br>✶ Digital Product Management Intern at Solar Coca-Cola - DecolaTECH
 
 Welcome to my profile! :)
 
